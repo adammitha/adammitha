@@ -1,5 +1,5 @@
 # About me
-Welcome to my site! Thanks for checking it out. I’m a a software developer and student in the Bachelor of Computer Science program at UBC. Prior to starting at UBC, I studied medicine at Queen’s before switching tracks to become a software developer.
+Welcome to my profile! Thanks for checking it out. I’m a a software developer and student in the Bachelor of Computer Science program at UBC. Prior to starting at UBC, I studied medicine at Queen’s before switching tracks to become a software developer.
 
 When I’m not at school, I work at a Vancouver-area startup called Bears Blooms, predominantly on backend API development. If you or someone you know in the Vancouver or Victoria area wants some flowers, check us out!
 
